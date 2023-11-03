@@ -2,15 +2,15 @@
 
 <h2>Data Analysis Projects:</h2>
 
-- UFC Fight Data: (https://github.com/JPickney/UFC-Fight-Data)
+- [UFC Fight Data](https://github.com/JPickney/UFC-Fight-Data)
 
 <h2>Certifications</h2>
 
-- Project Management Professional (PMP): (https://imgur.com/UrnTBSl)
+- [Project Management Professional (PMP)](https://imgur.com/UrnTBSl)
 
-- Google Data Analytics Professional: (https://www.coursera.org/account/accomplishments/professional-cert/BMELY2BFKG5E)
+- [Google Data Analytics Professional](https://www.coursera.org/account/accomplishments/professional-cert/BMELY2BFKG5E)
 
-- Lean Six Sigma Greenbelt Certification: (https://www.credential.net/6fd39e91-850a-4705-9378-aba13c014b89#gs.788erx)
+- [Lean Six Sigma Greenbelt Certification](https://www.credential.net/6fd39e91-850a-4705-9378-aba13c014b89#gs.788erx)
 
 <h2>Connect with me:</h2>
 
@@ -22,15 +22,3 @@
 
 <!--
 **JPickney/JPickney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
