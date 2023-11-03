@@ -12,7 +12,7 @@
 
 - Lean Six Sigma Greenbelt Certification: (https://www.credential.net/6fd39e91-850a-4705-9378-aba13c014b89#gs.788erx)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 
 [<img align="left" alt="JPickney | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
