@@ -2,7 +2,7 @@
 
 <h2>Data Analysis Projects:</h2>
 
-- UFC Fight Data: (Add link)
+- UFC Fight Data: (https://github.com/JPickney/UFC-Fight-Data)
 
 <h2>Certifications</h2>
 
