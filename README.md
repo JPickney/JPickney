@@ -3,6 +3,7 @@
 <h2>Data Analysis Projects:</h2>
 
 - [City of Dublin: A Decade of Growth](https://github.com/JPickney/City-of-Dublin---A-Decade-of-Growth)
+
 - [UFC Fight Data](https://github.com/JPickney/UFC-Fight-Data)
 
 <h2>Certifications</h2>
